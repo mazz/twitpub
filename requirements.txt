@@ -1,0 +1,6 @@
+msgpack-python
+pyzmq
+tweepy
+lxml
+pika
+
